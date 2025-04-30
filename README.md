@@ -5,6 +5,7 @@
 
 ## Overview  
 HeroLink is a gamified web application designed to incentivize volunteering and community service. Built with React and Firebase, it allows nonprofits to post events and users to sign up, track their service hours, and build a portfolio of verified impact. The system integrates real-time updates, authentication, and user-friendly interfaces to streamline community engagement.
+Link: https://super-hero-safety-xci2.vercel.app
 
 ## Why We Made This  
 We created HeroLink to make volunteering more accessible and rewarding for everyone—especially students and local organizations. Most platforms are either too complex or lack gamification. By integrating badges, points, and service verification, HeroLink transforms good deeds into tangible accomplishments. Our goal is to encourage people to take action in their communities while gaining recognition for their efforts.
