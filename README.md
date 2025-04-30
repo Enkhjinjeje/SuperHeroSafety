@@ -1,7 +1,7 @@
 # HeroLink (UWB 2025 Hackathon - Entertainment Track)
 
 
-![hero-banner](https://user-images.githubusercontent.com/your-image-url/banner.png)
+![HEROLINK Superhero Safety Network](https://github.com/user-attachments/assets/3f302ebc-d28e-413c-a968-f9c326b8b7d3)
 
 ## Overview  
 HeroLink is a gamified web application designed to incentivize volunteering and community service. Built with React and Firebase, it allows nonprofits to post events and users to sign up, track their service hours, and build a portfolio of verified impact. The system integrates real-time updates, authentication, and user-friendly interfaces to streamline community engagement.
