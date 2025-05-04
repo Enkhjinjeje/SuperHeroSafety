@@ -1,4 +1,4 @@
-# HeroLink (UWB 2025 Hackathon - Entertainment Track)
+# HeroLink (UW 2025 Hackathon - Entertainment Track)
 
 
 ![HEROLINK Superhero Safety Network](https://github.com/user-attachments/assets/3f302ebc-d28e-413c-a968-f9c326b8b7d3)
